@@ -171,6 +171,7 @@ a{
     #footer{
         height: 43.5%;
         width: 100%;
+        padding-top:10px;
         background-image: url(pexels-pixabay-235509.webp);
         background-size: cover;
         background-position: 0 18%;
