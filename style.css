@@ -85,6 +85,7 @@ a{
     opacity: 1;
 }
 #footer{
+    background-color:red;
     height: 36%;
     width: 100%;
     background-image: url(pexels-pixabay-235509.webp);
